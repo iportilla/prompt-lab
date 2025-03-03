@@ -6,7 +6,7 @@ Follow these instructions:
 1. Copy code to local machine with:
    
 ```
-git clone xxxx
+git clone https://github.com/iportilla/prompt-lab.git
 ```
 
 3. Create .env file with:
